@@ -1,18 +1,18 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Anek+Odia:wght@300&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Poppins', sans-serif;
-  --font-secondary: 'Arvo', serif;
+  --font-primary: 'Rubik Wet Paint', cursive;
+  --font-secondary: 'Rubik Wet Paint', cursive;
   --font-code: 'Roboto', monospace;
-  --bg-color: #27b8b6;
-  --font-color: #ffffff;
-  --btn-bg-color: #060606;
-  --accent-color: #fffafa;
-  --header-shadow: rgb(255, 255, 255) 0px 0px 5px;
+  --bg-color: #5a9ed9;
+  --font-color: #252629;
+  --btn-bg-color: #ffffff;
+  --accent-color: #000000;
+  --header-shadow: rgb(0, 0, 0) 0px 0px 5px;
 }
 
 * {
